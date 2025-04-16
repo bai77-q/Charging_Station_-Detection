@@ -1,0 +1,10 @@
+#dataset path
+train: /home/ubuntu/yolov9/YOLO_dataset/images/train
+val: /home/ubuntu/yolov9/YOLO_dataset/images/val
+test: /home/ubuntu/yolov9/YOLO_dataset/images/test
+
+#number of classes
+nc: 2
+
+#classes names
+names: ["charging_station","person"]
